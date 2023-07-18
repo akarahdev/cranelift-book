@@ -1,5 +1,3 @@
-
-
 # Summary
 
 
@@ -97,3 +95,14 @@ TODO: document specifics of other chapters
     - [The Stack vs The Heap](./chapter4/stack_vs_heap.md)
     - [Manipulating the Stack](./chapter4/manipulating_stack.md)
     - [Manipulating the Heap](./chapter4/manipulating_heap.md)
+
+<!-- 
+Possible ideas for future chapters
+- Strings & arrays in memory
+- Interop with Rust (using Rust functions, data, etc. from Cranelift)
+- Working through recreating the JIT Cranelift Demo. (It's really a good example, 
+I just wish it was better explained in a step-by-step format in a book like this
+instead of scattered comments. That way it could be understood.)
+
+
+-->
