@@ -25,6 +25,7 @@ Shows a simple program in IR form.
     - [What is Cranelift?](./introduction/what_is_cranelift.md)
     - [Functions, Basic Blocks, and SSA](./introduction/fbbssa.md)
     - [Sample Program](./introduction/sample_program.md)
+    - [LLVM vs Cranelift](./introduction/llvm_vs_cranelift.md)
 
 <!--
 # Cranelift Codegen
