@@ -1,6 +1,10 @@
 [book]
-authors = ["akarahdev"]
+authors = ["???"]
 language = "en"
+description = "A guide on how to use Cranelift to generate machine code."
 multilingual = false
 src = "src"
 title = "The Cranelift Book"
+
+[rust]
+edition = "2021"
